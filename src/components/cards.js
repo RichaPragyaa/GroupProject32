@@ -63,7 +63,7 @@ export default function Cards() {
           <div className="card-body"></div>
         </div>
         <div className={bootClass} style={st}>
-          <a href="/">
+          <a href="https://rittikabose.github.io/recipecalorietracker.github.io/">
             <img src={health} className="card-img-top" alt="..." />
           </a>
           <div className="card-body"></div>
