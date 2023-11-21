@@ -69,7 +69,7 @@ export default function Cards() {
           <div className="card-body"></div>
         </div>
         <div className={bootClass} style={st}>
-          <a href="https://padmini02.github.io/World-Clock-/">
+          <a href="https://main--sage-naiad-f4ac09.netlify.app">
             <img src={clock} className="card-img-top" alt="..." />
           </a>
 
