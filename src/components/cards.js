@@ -1,5 +1,5 @@
 import React from "react";
-import code from "./images/code_buddy.jpg";
+import shareMe from "./images/shareMe.jpeg";
 import clock from "./images/world_clock.jpg";
 import dict from "./images/dictionary.jpg";
 import weather from "./images/weather.jpg";
@@ -20,8 +20,8 @@ export default function Cards() {
       {/* <div className="container d-flex justify-content-center"> */}
       <div className="card-deck my-5 mx-5">
         <div className={bootClass} style={st}>
-          <a href="http://code-buddy-drab.vercel.app">
-            <img src={code} className="card-img-top" alt="..." />
+          <a href="https://shareme75.netlify.app/">
+            <img src={shareMe} className="card-img-top" alt="..." />
           </a>
           <div className="card-body">
             {/* <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> */}
