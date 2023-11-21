@@ -40,7 +40,7 @@ export default function Navbar() {
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" href="https://padmini02.github.io/World-Clock-/">World Clock</a>
+            <a className="nav-link" href="https://main--sage-naiad-f4ac09.netlify.app">World Clock</a>
           </li>
 
           <li className="nav-item">
